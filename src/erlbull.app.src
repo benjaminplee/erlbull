@@ -1,6 +1,6 @@
 {application, erlbull,
  [
-  {description, ""},
+  {description, "erlang server monitor"},
   {vsn, "1"},
   {registered, []},
   {applications, [
