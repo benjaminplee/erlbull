@@ -1,1 +1,6 @@
 erlbull - erlang server monitor and metric visualizer
+=====================================================
+
+Erlang OTP application
+
+Uses rebar to build/test/package - https://github.com/basho/rebar
